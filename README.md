@@ -4,7 +4,7 @@ Team Run is a fitness RPG web/mobile application that turns real life workouts a
 Documentation
 Project documentation can be found in:
 
-491 Beginning Docs Security and ethics documentation:
-Ethical Issues
-Legal Issues
-Security Issues
+491 Beginning Docs Security and ethics documentation:/n/n
+/nEthical Issues
+/nLegal Issues
+/nSecurity Issues
